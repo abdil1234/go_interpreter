@@ -22,14 +22,15 @@ const (
 	BANG     = "!"
 	ASTERISK = "*"
 	SLASH    = "/"
-	LG       = "<"
+	LT       = "<"
 	GT       = ">"
 	EQ       = "=="
 	NOT_EQ   = "!="
 
 	//Delimiters
 
-	COMMA = ","
+	COMMA     = ","
+	SEMICOLON = ";"
 
 	LPAREN = "("
 	RPAREN = ")"
