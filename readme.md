@@ -1,12 +1,12 @@
 TEST
 ----
 
-###Lexer
+### Lexer
 ```
 go test ./lexer
 ```
 
-###Parser
+### Parser
 ```
 go test ./parser
 ```
