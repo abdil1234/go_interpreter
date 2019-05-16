@@ -1,3 +1,15 @@
+TEST
+----
+
+####Lexer
+```
+go test ./lexer
+```
+
+####Parser
+```
+go test ./parser
+```
 Description
 -----
 
